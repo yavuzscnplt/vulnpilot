@@ -1,0 +1,17 @@
+# Repo genelinde tutarlı satır sonları — Windows/Linux karışık geliştirmede
+# CRLF/LF gürültüsünü önler.
+* text=auto eol=lf
+
+# Metin olarak ele alınacak dosyalar
+*.py    text eol=lf
+*.md    text eol=lf
+*.toml  text eol=lf
+*.yml   text eol=lf
+*.html  text eol=lf
+*.json  text eol=lf
+
+# İkili dosyalar
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary

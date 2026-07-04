@@ -11,6 +11,7 @@ It is a **security orchestrator**, not yet another scanner: instead of
 reinventing detection engines, it makes the good ones work together and adds
 the judgement layer on top.
 
+[![CI](https://github.com/yavuzscnplt/vulnpilot/actions/workflows/ci.yml/badge.svg)](https://github.com/yavuzscnplt/vulnpilot/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-alpha-orange)
